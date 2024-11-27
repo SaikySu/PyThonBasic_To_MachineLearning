@@ -1,13 +1,14 @@
-# These are Python exercises ranging from basic to advanced for Van Lang University students in the Faculty of Information Technology.
+# Python from basic to advanced for Van Lang University students in the Faculty of Information Technology.
+These are Python exercises ranging from basic to advanced for Van Lang University students in the Faculty of Information Technology.
 
 ## The repository is divided into 4 parts
-1. Getting to know Python
+### Getting to know Python
 Using variables, data types, functions, and basic programming concepts
 
-2. Object-oriented programming
+### Object-oriented programming
 Mastering OOP concepts and implementing object-oriented properties: Encapsulation, Inheritance, Polymorphism and Abstraction.
 
-3. Data Structures and Algorithms
+### Data Structures and Algorithms
 Algorithmic Complexity (Big O - Basic)
 
 > How Basic Algorithms Work: 
