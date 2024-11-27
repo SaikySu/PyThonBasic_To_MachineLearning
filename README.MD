@@ -27,7 +27,7 @@ Algorithmic Complexity (Big O - Basic)
 > * Tree Data Structures
 > * Graph Structures.
 
-4. Machine Learning Basics
+### Machine Learning Basics
 > Basic Mathematics 
 > * Calculus 
 > * Discrete Mathematics
