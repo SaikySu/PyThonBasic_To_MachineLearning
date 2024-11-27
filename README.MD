@@ -5,9 +5,6 @@ These are Python exercises ranging from basic to advanced for Van Lang Universit
 ### Getting to know Python
 Using variables, data types, functions, and basic programming concepts
 
-### Object-oriented programming
-Mastering OOP concepts and implementing object-oriented properties: Encapsulation, Inheritance, Polymorphism and Abstraction.
-
 ### Data Structures and Algorithms
 Algorithmic Complexity (Big O - Basic)
 
@@ -27,6 +24,9 @@ Algorithmic Complexity (Big O - Basic)
 > * Tree Data Structures
 > * Graph Structures.
 
+### Object-oriented programming
+Mastering OOP concepts and implementing object-oriented properties: Encapsulation, Inheritance, Polymorphism and Abstraction.
+
 ### Machine Learning Basics
 > Basic Mathematics 
 > * Calculus 
@@ -43,4 +43,3 @@ Algorithmic Complexity (Big O - Basic)
 > * Logistic Regression
 > * Overfitting
 > * Methods for evaluating a classification system
-
